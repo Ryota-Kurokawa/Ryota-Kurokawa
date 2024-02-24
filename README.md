@@ -19,8 +19,9 @@
 
 ### Write & Contact
   #### Zenn
-    **[Zenn  - @ryota1582] (https://zenn.dev/ryota1582)** 
+**[Zenn  - @ryota1582](https://zenn.dev/ryota1582)** 
+    
   #### Qiita
-    **[Qiita - @ryota1582](https://qiita.dev/ryota1582)**
+**[Qiita - @ryota1582](https://qiita.dev/ryota1582)**
   #### X
-    **[ X  -@ryota1582 ](https://twitter.com/ryota1582)**
+**[ X  -@ryota1582 ](https://twitter.com/ryota1582)**
