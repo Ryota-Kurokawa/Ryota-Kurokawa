@@ -9,7 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryota-Kurokawa&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryota-Kurokawa&theme=gruvbox&utcOffset=9)
 
-
+### Contributions
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ryota-Kurokawa&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://raw.githubusercontent.com/Ryota-Kurokawa/Ryota-Kurokawa/output/github-contribution-grid-snake.svg)
