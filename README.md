@@ -1,7 +1,7 @@
 # Ryota-Kurokawa
 
 ## My State 
-<p align="left"> 
+<p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryota-Kurokawa&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryota-Kurokawa&theme=onedark&show_icons=ture" />
 </p>
@@ -17,5 +17,10 @@
 ### Other Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,notion,supabase,firebase,git,github,vscode,githubactions,vercel," />
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryota-Kurokawa&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### Write & Contact
+  #### Zenn
+    **[Zenn  - @ryota1582](https://zenn.dev/ryota1582)** 
+  #### Qiita
+    **[Qiita - @ryota1582](https://qiita.dev/ryota1582)**
+  #### X
+    **[ X  -@ryota1582 ](https://twitter.com/ryota1582)**
