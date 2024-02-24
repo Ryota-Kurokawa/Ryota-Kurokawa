@@ -1,4 +1,4 @@
-# 🧑‍💻HI! I'm Mobile Developer & Kwanseigakuin Univercity Student
+# 🧑‍💻HI! I'm Mobile Developer & Univercity Student
 
 ## My State 
 
