@@ -12,10 +12,10 @@
 <img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,ts,js,c,java,python,ruby,swift,dart" />
 
 ### 🌎FlameWork & Liblary
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs,swiftUI,flutter,rails,swiftui,uikit" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs,flutter,rails" />
 
-### 🌎Languages
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,react,nextjs,sass,supabase,firebase,vercel,git,github,githubactions,figma,swift,swiftui,flutter,dart,ruby,rails" />
+### Other Tools
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,notion,supabase,firebase" />
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ryota-Kurokawa&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
