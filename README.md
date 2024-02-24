@@ -34,6 +34,7 @@
 ・[WishList - ホットペッパーAPIからWebViewと、飲食店マッチング予約アプリ](https://github.com/Ryota-Kurokawa/hackathon)  
 ・[algoria - 1日1通100文字のSNS（リリース予定故Private）](https://github.com/Ryota-Kurokawa/algoria-dev)  
 ・[Portfolio - 友達にダサいと言われたポートフォリオ](https://github.com/Ryota-Kurokawa/Portfolio)  
+・[Shaker - SwiftUIで加速度を取得するアプリ](https://github.com/Ryota-Kurokawa/Shaker)  
 
 
 ### 👏Write & Contact
