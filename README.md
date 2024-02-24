@@ -12,7 +12,7 @@
 
 ### 🌎Languages
 <img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,ts,js,c,java,python,ruby,swift,dart,go" />
-***
+* * *
 
 ### 📲FlameWork & Liblary
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs,flutter,rails" />
