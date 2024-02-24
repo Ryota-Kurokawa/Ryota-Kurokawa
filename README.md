@@ -1,10 +1,7 @@
 # 🧑‍💻Ryota-Kurokawa
 
 ## My State 
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryota-Kurokawa&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryota-Kurokawa&theme=onedark&show_icons=ture" />
-</p>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryota-Kurokawa&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryota-Kurokawa&theme=gruvbox)
