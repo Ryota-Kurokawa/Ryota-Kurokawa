@@ -19,7 +19,7 @@
 
 ### Write & Contact
   #### Zenn
-    **[Zenn  - @ryota1582](https://zenn.dev/ryota1582)** 
+    **[Zenn  - @ryota1582] (https://zenn.dev/ryota1582)** 
   #### Qiita
     **[Qiita - @ryota1582](https://qiita.dev/ryota1582)**
   #### X
