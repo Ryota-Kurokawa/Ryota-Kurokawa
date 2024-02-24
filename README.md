@@ -11,7 +11,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ryota-Kurokawa&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Contributions
+### 🧬Contributions
 ![](https://raw.githubusercontent.com/Ryota-Kurokawa/Ryota-Kurokawa/output/github-contribution-grid-snake.svg)
 
 
