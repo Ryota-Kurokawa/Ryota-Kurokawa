@@ -12,7 +12,7 @@
 <img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,ts,js,c,java,python,ruby,swift,dart" />
 
 ### 🌎FlameWork & Liblary
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs,swiftUI,flutter,rails,riverpod" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs,swiftUI,flutter,rails,simple-swiftui" />
 
 ### 🌎Languages
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,react,nextjs,sass,supabase,firebase,vercel,git,github,githubactions,figma,swift,swiftui,flutter,dart,ruby,rails" />
