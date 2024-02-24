@@ -15,7 +15,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs,flutter,rails" />
 
 ### Other Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,notion,supabase,firebase" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,notion,supabase,firebase,git,github,vscode,githubactions" />
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ryota-Kurokawa&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
