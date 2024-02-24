@@ -30,6 +30,12 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma,notion,supabase,firebase,git,github,vscode,githubactions,vercel" />
 ***
 
+### 🎧Products
+・[WishList - ホットペッパーAPIからWebViewと、飲食店マッチング予約アプリ](https://github.com/Ryota-Kurokawa/hackathon)
+・[algoria - 1日1通100文字のSNS](https://github.com/Ryota-Kurokawa/algoria-dev)
+・[Portfolio - 友達にダサいと言われたポートフォリオ](https://github.com/Ryota-Kurokawa/Portfolio)
+
+
 ### 👏Write & Contact
 
 **[Zenn  - @ryota1582](https://zenn.dev/ryota1582)**  
