@@ -1,4 +1,4 @@
-# 🧑‍💻Ryota-Kurokawa
+# 🧑‍💻HI! I'm Mobile Developer & Kwanseigakuin Univercity Student
 
 ## My State 
 
