@@ -6,6 +6,13 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryota-Kurokawa&theme=onedark&show_icons=ture" />
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryota-Kurokawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryota-Kurokawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryota-Kurokawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryota-Kurokawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryota-Kurokawa&theme=gruvbox&utcOffset=9)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ryota-Kurokawa&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌱 My Skills
