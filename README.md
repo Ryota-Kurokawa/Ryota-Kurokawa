@@ -9,10 +9,10 @@
 ## 🌱 My Skills
 
 ### 🌎Languages
-<img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,ruby,sass,swift,dart,c,c++,java,python," />
+<img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,ts,js,c,java,python,ruby,swift,dart" />
 
-### 🌎FlameWork
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,react,nextjs,sass,supabase,firebase,vercel,git,github,githubactions,figma,swift,swiftui,flutter,dart,ruby,rails" />
+### 🌎FlameWork & Liblary
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nextjs,swiftui,flutter,rails,riverpod" />
 
 ### 🌎Languages
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,react,nextjs,sass,supabase,firebase,vercel,git,github,githubactions,figma,swift,swiftui,flutter,dart,ruby,rails" />
