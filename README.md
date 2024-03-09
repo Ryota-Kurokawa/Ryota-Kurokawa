@@ -8,6 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryota-Kurokawa&&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryota-Kurokawa&&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryota-Kurokawa&&theme=onedark&utcOffset=9)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryota-Kurokawa&count_private=true&show_icons=true&bg_color=000000&hide_border=true&title_color=7fff00&icon_color=238636&text_color=ffffff)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ryota-Kurokawa&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
