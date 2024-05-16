@@ -34,7 +34,6 @@
 ### 🎧Products
 ・[WishList - ホットペッパーAPIからWebViewと、飲食店マッチング予約アプリ](https://github.com/Ryota-Kurokawa/hackathon)  
 ・[algoria - 1日1通100文字のSNS（リリース予定故Private）](https://github.com/Ryota-Kurokawa/algoria-dev)  
-・[Portfolio - 友達にダサいと言われたポートフォリオ](https://ryota1582.vercel.app/)  
 ・[Shaker - SwiftUIで加速度を取得するアプリ](https://github.com/Ryota-Kurokawa/Shaker)  
 
 
@@ -43,3 +42,4 @@
 **[Zenn  - @ryota1582](https://zenn.dev/ryota1582)**  
 **[Qiita - @ryota1582](https://qiita.dev/ryota1582)**  
 **[ X  -@ryota1582 ](https://twitter.com/ryota1582)**  
+**[Portfolio -@ryota1582](https://ryota1582.vercel.app/)**
