@@ -18,7 +18,6 @@
 
 
 ## 🌱 My Skills
-
 ### 🌎Languages
 <img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,ts,js,c,java,python,ruby,swift,dart,go" />
 * * *
@@ -32,10 +31,12 @@
 ***
 
 ### 🎧Products
-・[WishList - ホットペッパーAPIからWebViewと、飲食店マッチング予約アプリ](https://github.com/Ryota-Kurokawa/hackathon)  
-・[algoria - 1日1通100文字のSNS（リリース予定故Private）](https://github.com/Ryota-Kurokawa/algoria-dev)  
-・[Shaker - SwiftUIで加速度を取得するアプリ](https://github.com/Ryota-Kurokawa/Shaker)  
 
+|Product Name|Description|
+|:--|:--:|
+|**WishList**|[ホットペッパーAPIからWebViewと、飲食店マッチング予約アプリ](https://github.com/Ryota-Kurokawa/hackathon)|
+|**algoria**|[1日1通100文字のSNS(private)](https://github.com/Ryota-Kurokawa/algoria-dev)|
+|**Shaker**|[SwiftUIで加速度を取得するアプリ](https://github.com/Ryota-Kurokawa/Shaker)|
 
 ### 👏Write & Contact
 
