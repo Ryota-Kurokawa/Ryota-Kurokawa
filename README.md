@@ -1,4 +1,4 @@
-# 🧑‍💻HI! I'm Mobile Developer & Univercity Student
+# 🧑‍💻HI! I'm Mobile Developer & University Student
 
 ## My State 
 
